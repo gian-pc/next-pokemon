@@ -11,7 +11,7 @@ import { Layout } from "../../components/layouts"
 import { Pokemon } from "../../interfaces";
 import { getPokemonInfo, localFavorites } from "../../utils";
 import { PokemonListResponse } from '../../interfaces/pokemon-list';
-import { Pokemon } from '../../interfaces/pokemon-full';
+
 
 
 interface Props {
